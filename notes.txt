@@ -1,0 +1,50 @@
+Sistemas digitais
+
+Computadores são aparelhos eletrônicos que recebem, processam, produzem e armazenam informações. Computador vem do verbo "computar" que significa calcular e uma dessas primeiras máquinas era o ábaco, um instrumento de origem chinesa.
+
+Jhon Napier no século XVII foi um dos responsáveis pela régua de cálculo, considerada o primeiro instrumento analógico de contagem, a mãe das calculadoras modernas. Para alguns autores a primeira máquina automática foi inventada pelo francês Blaise Pascal, 1642. A primeira calculadora portátil capaz de realizar as quatro operações e a raiz quadrada foi criada pelo alemão Gottfried Wilhelm Leibniz, que criou um sistema de númeração binário conhecido como a Roda de Leibniz.
+
+A Primeira máquina programável foi um tipo de tear usando cartões perfurados (Joseph-Marie Jacquard).
+
+George Boole criou a álgebra booleana; em seguida no século XIX o inglês Charles Babbage criou a máquina analítica, mais próxima dos computadores atuais pois tinha memória e programas.
+
+https://www.diferenca.com/evolucao-dos-computadores/#:~:text=Cada%20gera%C3%A7%C3%A3o%20de%20computadores%20refere,e%20produzida%20em%20larga%20escala.
+Toda a história da computação é divida em gerações:
+Primeira Geração (1940–1956) - Válvulas termiônicas, código de máquina, grandes dimensões, alto consumo de energia, dados inseridos por cartões perfurados (ENIAC, Univac)
+
+Segunda Geração (1956–1963) - Diodos Transistores, código de montagem, menores dimensões, peso de até 750 kg (PDP-1)
+
+Terceira Geração (1964–1971) - Circuitos integrados, COBOL, FORTAN, Pascal, C, Basic; criação dos sistemas operacionais, entrada de dados por dispositivos periféricos (IBM 360, UNIVAC 1108)
+
+Quarta Geração (1971 — presente) - Microprocessadores, JavaScript Python, Java, C#, Kotlin, Microcomputadores , Computadores portáteis, Memoria RAM e ROM, entrada de dados por dispositivos periféricos (Apple Machintosh, IBM-286, IBM-386)
+
+Quinta Geração (presente-futuro) - Inteligência artificial, computadores quânticos, nanotecnologia, multiprocessadores, linguagem de alto nível, linguagem natural, portáteis, leves, maior velocidade, maior memória, reconhecimento de linguagem natural, reconhecimento facial e de voz (Laptops, Smartphones, Computadores Quânticos)
+
+Sistemas Digitais (definidos como circuitos eletrônicos que usam sinais elétricos em dois níveis de tensão, constituindo assim uma representação binária, circuitos lógicos; os impulsos elétricos transportados por esses circuitos são chamados de sinais digitais ou binários)
+
+Sinal analógico e sinal digital
+Sinal digital pode assumir dois esstados lógicos, como: ligado/ desligado, alto/ baixo, etc. O sinal digital tem algumas vantagens sobre o analógico, são mais imunes a distorções, ruídos e interferências, mais confiáveis e robustos, mais fáceis de projetar e mais baratos e sua implementação de hardware em circuitos é mais flexível.
+
+Grandezas digitais (bit > nibble > byte > word) (1 byte = 8 bits, 1 kilobyte 19 (KB) = 1024 bytes, 1 megabyte (MB) = 1024 kilobytes)
+
+Integração Hardware/ Software (físico e digital)
+
+Dispositivos de entrada - são todos cuja a interação do usuário direciona a informação para dentro do computador.
+
+Dispositivos de saída - são todos aqueles destinados a exibir/receber o resultado do processamento de informações, ou seja, o fluxo é de dentro para fora do computador.
+
+Dispositivos de entrada/saída – Existem dispositivos que podem executar operações tanto de entrada quanto de saída. Como exemplo tem-se o pen drive, que pode ser utilizado para receber arquivos contidos no computador e/ou para transportar arquivos para dentro do computador.
+
+Tipos de Software
+Software é uma coleção de dados, programas, procedimentos, instruções e documentação que executa várias tarefas predefinidas. A intermediação entre usuário e computador.
+
+Software de Sistema (SO): o software responsável pelo gerenciamento do hardware.
+
+Software de Aplicação: os softwares de aplicação são aqueles programas desenvolvidos para o usuário final.
+
+Conceitos de redes de computadores (trabalho realizado em vários computadores separados porém interligados entre si. 
+
+Endereço IP
+Para que haja conectividade (Internet) todos os equipamentos que se conectam precisam de um identificador único dentro da rede local denominado endereço de Internet, endereço IP (Internet protocol).
+
+
