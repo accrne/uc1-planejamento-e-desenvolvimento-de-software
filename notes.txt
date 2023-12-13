@@ -47,4 +47,24 @@ Conceitos de redes de computadores (trabalho realizado em vários computadores s
 Endereço IP
 Para que haja conectividade (Internet) todos os equipamentos que se conectam precisam de um identificador único dentro da rede local denominado endereço de Internet, endereço IP (Internet protocol).
 
+Programação de computadores: fundamentos, código, compiladores, código de máquina
 
+Fundamentos
+
+Programação de computadores é projetar, desenvolver e construir um programa executável, para cumprir uma tarefa ou uma resposta para um determinado resultado;
+
+Programar computadores exige o cumprimento de tarefas, como análises, geração de algoritmos, análise de recursos computacionais, implementação e testes de algoritmos em uma linguagem de programação escolhida, este último processo é comumente conhecido como codificação;
+
+Um programa de computador é um conjunto de instruções e algoritmos;
+
+Um programa de computador é criado, compilado e executado;
+
+s primeiras linguagens de programação se baseavam em instruções descritas com sequências de bytes (instruções binárias);
+
+Em 1950, a linguagem de programação comumente usada era o Assembly, mas, por ser uma linguagem de baixo nível (difícil para um ser humano entender e “visualizar” o código), começaram a surgir linguagens de alto nível, permitindo códigos mais complexos, como Cobol.
+
+- A primeira imagem vista neste conteúdo foi a da programadora Margaret Hamilton, que criou o código de navegação e pouso da missão Apollo para que houvesse pouso com segurança na Lua. Todo aquele código visto na imagem foi escrito em Assembly! -
+
+Toda linguagem de programação tem palavras reservadas, que representam determinadas funções dentro do alfabeto dessa linguagem.
+
+Compiladores e código de máquina
