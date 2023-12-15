@@ -68,3 +68,14 @@ Em 1950, a linguagem de programação comumente usada era o Assembly, mas, por s
 Toda linguagem de programação tem palavras reservadas, que representam determinadas funções dentro do alfabeto dessa linguagem.
 
 Compiladores e código de máquina
+Os compiladores transformam uma linguagem de alto nível para um nível mais baixo, para que a máquina possa executar. Compiladores em sua maioria não passam o código direto para binário, mas sim para outra linguagem de baixo nível, como Assembly. Existe uma correlação entre abstração e velocidade entre os níveis de linguagem de programação.
+
+Lógica proposicional e lógica booleana
+"... A lógica proposicional se baseia no conceito de proposições, uma sentença declarativa (expressa por palavras ou símbolos) cujo valor pode ser considerado verdadeiro ou falso (e nenhum outro diferente desses)... "
+
+Uma proposição verdadeira é verdadeira; uma proposição falsa é falsa (princípio da identidade).
+
+Nenhuma proposição poderá ser verdadeira e falsa ao mesmo tempo. (princípio da não contradição).
+
+Uma proposição ou será verdadeira, ou será falsa: não há outra possibilidade (princípio do terceiro excluído).
+
