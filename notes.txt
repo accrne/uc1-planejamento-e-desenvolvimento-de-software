@@ -79,3 +79,22 @@ Nenhuma proposição poderá ser verdadeira e falsa ao mesmo tempo. (princípio 
 
 Uma proposição ou será verdadeira, ou será falsa: não há outra possibilidade (princípio do terceiro excluído).
 
+Conectivos:
+
+Conjunção (e) - define que uma expressão é verdadeira quando ambas as proposições são verdadeiras. (símbolo ∧)
+
+Disjunção (ou) - define que uma das proposições será verdadeira se alguma das proposições for verdadeira (símbolo ∨)
+
+
+Pensamento computacional: decomposição, reconhecimento de padrões, abstração e algoritmos
+
+Pensamento computacional (quebrar problemas, reconhecer padrões, abstrair e desenhar passos de regras para solucioná-los.)
+Algoritmos são separados em pequenos passos:
+
+Decomposição: separação de atividades de um problema, separadas em "n" passos.
+
+Reconhecimento de padrões: atividades rotineiras em mais de um passo.
+
+Abstração: separação do que é essencial e secundário nas atividades.
+
+Algortimo: literalmento o passo a passo a ser seguido.
