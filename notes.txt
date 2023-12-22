@@ -98,3 +98,71 @@ Reconhecimento de padrões: atividades rotineiras em mais de um passo.
 Abstração: separação do que é essencial e secundário nas atividades.
 
 Algortimo: literalmento o passo a passo a ser seguido.
+
+Metodologias de desenvolvimento de software
+
+"... não existe uma solução que atenda a todos os tipos de projetos e necessidades."
+
+A metodologia mais tradicional é o modelo cascata:
+Análise e definição de requisitos------v
+							Projeto de sistemas e de software------v
+														Implementação e teste de unidades------v
+																					Integração e teste de sistemas------v
+																											Operação e manutenção
+
+Modelo de etapas prederminadas, executadas sequencialmente. Finalizando uma para iniciar a outra. Levantamento de dados, projeto, implementação, realização de testes e manutenção do sistema.
+
+Metodologias ágeis
+"...  surgem como uma proposta de atender com flexibilidade e agilidade às características do mercado corporativo nos dias de hoje."
+
+Sua base é funcionar com pequenas entregas para que seja avaliada a evolução de cada passo, sendo assim possível redirecionar o projeto em andamento.
+
+Scrum
+
+Artefatos do scrum: 
+
+*Milestone* é um agrupamento de atividades similares.
+
+(Nesse tipo de projeto, validar um conceito é conhecido como “prova de conceito” e utiliza-se a sigla POC (originada do termo em inglês proof of concept, que, traduzindo do inglês, significa “prova de conceito”).
+
+*User story* é um artefato utilizado para descrever objetivos e funcionalidades de um software. Nesse artefato, você responderá “para quem?”, “o quê?” e “por quê?”. Respondendo a essas três perguntas, você conseguirá direcionar o desenvolvimento das atividades, sem definir como as elas devem ser realizadas (dando flexibilidade para a equipe de desenvolvimento do projeto).
+
+e.g:       	Eu, como um médico,
+		Quero conseguir registrar os laudos que preenchi
+		De modo que consiga acessá-los depois fácil e rapidamente.
+
+*Product backlog* é a nossa lista total de tarefas para o completo desenvolvimento da solução. O Product backlog é responsabilidade do product owner.
+
+*Sprint* "... sprint como uma janela de tempo, na qual a equipe planejará quais atividades serão feitas e qual é o objetivo desse incremento... "
+
+*Sprint backlog* a lista de atividades a serem realizadas em uma sprint.
+
+Papéis do scrum:
+
+*Scrum Master* é o líder da equipe scrum, responsável pela execução dos processos, resolução de bloqueios e representar o time scrum, defendendo o projeto e orientando a equpe.
+
+*Product owner* também chamado de PO, "dono do produto", responsável pelo product backlog e suas atividades, ele também valida o andamento do projeto, aprovando as atividades e delegando novas atividades.
+
+*Time de desenvolvimento* são quem executa as tarefas dos scrum.
+
+*Stakeholders* são as pessoas impactadas ou interessadas no projeto, usuários ou matenedores do projeto final.
+
+Cerimônias do scrum:
+
+*Planning* reunião para definir os sprints, tamanhos, tempo, sprint backlogs, etc.
+
+*Planning Poker* uma técnica para tentar achar um consenso sobre a estimativa das atividades apresentadas.
+
+*Daily* stand-up meeting, reunião que ocorre todos os dias, de curta duração, em que todos os membros informam brevemente o status de suas atividades e se existe algum bloqueio no seu fluxo de trabalho, informando se precisam de apoio ou orientação. 
+"O que eu fiz ontem?", "O que vou fazer hoje?" e "Tenho algum bloqueio?".
+
+*Sprint review" é uma reunião para apresentar os resultados da sprint para o product owner onde o mesmo aprovara a entrega e fazer feedbacks para a equipe. Realizada no final da sprint com todas as atividades finalizadas.
+
+*Sprint retrospective*  reunião junto ao scrum master para analisar a última sprint, seu ponto é debater sobre potenciais pontos de melhoria para otimizar o processo.
+
+SMART (específica, mensurável, atingível, relevante, temporal)
+
+Kanban
+
+O kanban é outra metodologia ágil, que usa alguns princípios do scrum, porém não usa sprints, e sim, com um quadro de atividades para representar o fluxo de trabalho.
+"para fazer", "fazendo" e "feito"
