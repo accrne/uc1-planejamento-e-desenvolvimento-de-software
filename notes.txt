@@ -166,3 +166,12 @@ Kanban
 
 O kanban é outra metodologia ágil, que usa alguns princípios do scrum, porém não usa sprints, e sim, com um quadro de atividades para representar o fluxo de trabalho.
 "para fazer", "fazendo" e "feito"
+
+Regras de negócio
+
+Negócio pode ser definido com o que uma organização faz (comercialização de um produto ou a prestação de um serviço). As partes de um negócio podem ser entendidas como etapas ou processos.
+
+Regras de negócio em TI, são processos que diretamente determinam o funcionamento da empresa. Essas regras consolidá-las, é preciso de documentação, avaliação de fluxo de trabalho e análise das necessidades. São as diretrizes básicas dos negócios.
+
+Regras de negócio padrão: o que, onde, quando, por que e como será feito.
+
