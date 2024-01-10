@@ -1,4 +1,4 @@
-Sistemas digitais
+* Sistemas digitais *
 
 Computadores são aparelhos eletrônicos que recebem, processam, produzem e armazenam informações. Computador vem do verbo "computar" que significa calcular e uma dessas primeiras máquinas era o ábaco, um instrumento de origem chinesa.
 
@@ -9,21 +9,29 @@ A Primeira máquina programável foi um tipo de tear usando cartões perfurados 
 George Boole criou a álgebra booleana; em seguida no século XIX o inglês Charles Babbage criou a máquina analítica, mais próxima dos computadores atuais pois tinha memória e programas.
 
 https://www.diferenca.com/evolucao-dos-computadores/#:~:text=Cada%20gera%C3%A7%C3%A3o%20de%20computadores%20refere,e%20produzida%20em%20larga%20escala.
+
+
 Toda a história da computação é divida em gerações:
-Primeira Geração (1940–1956) - Válvulas termiônicas, código de máquina, grandes dimensões, alto consumo de energia, dados inseridos por cartões perfurados (ENIAC, Univac)
 
-Segunda Geração (1956–1963) - Diodos Transistores, código de montagem, menores dimensões, peso de até 750 kg (PDP-1)
+* Primeira Geração (1940–1956) - Válvulas termiônicas, código de máquina, grandes dimensões, alto consumo de energia, dados inseridos por cartões perfurados (ENIAC, Univac)
 
-Terceira Geração (1964–1971) - Circuitos integrados, COBOL, FORTAN, Pascal, C, Basic; criação dos sistemas operacionais, entrada de dados por dispositivos periféricos (IBM 360, UNIVAC 1108)
+* Segunda Geração (1956–1963) - Diodos Transistores, código de montagem, menores dimensões, peso de até 750 kg (PDP-1)
 
-Quarta Geração (1971 — presente) - Microprocessadores, JavaScript Python, Java, C#, Kotlin, Microcomputadores , Computadores portáteis, Memoria RAM e ROM, entrada de dados por dispositivos periféricos (Apple Machintosh, IBM-286, IBM-386)
+* Terceira Geração (1964–1971) - Circuitos integrados, COBOL, FORTAN, Pascal, C, Basic; criação dos sistemas operacionais, entrada de dados por dispositivos periféricos (IBM 360, UNIVAC 1108)
 
-Quinta Geração (presente-futuro) - Inteligência artificial, computadores quânticos, nanotecnologia, multiprocessadores, linguagem de alto nível, linguagem natural, portáteis, leves, maior velocidade, maior memória, reconhecimento de linguagem natural, reconhecimento facial e de voz (Laptops, Smartphones, Computadores Quânticos)
+* Quarta Geração (1971 — presente) - Microprocessadores, JavaScript Python, Java, C#, Kotlin, Microcomputadores , Computadores portáteis, Memoria RAM e ROM, entrada de dados por dispositivos periféricos (Apple Machintosh, IBM-286, IBM-386)
 
-Sistemas Digitais (definidos como circuitos eletrônicos que usam sinais elétricos em dois níveis de tensão, constituindo assim uma representação binária, circuitos lógicos; os impulsos elétricos transportados por esses circuitos são chamados de sinais digitais ou binários)
+* Quinta Geração (presente-futuro) - Inteligência artificial, computadores quânticos, nanotecnologia, multiprocessadores, linguagem de alto nível, linguagem natural, portáteis, leves, maior velocidade, maior memória, reconhecimento de linguagem natural, reconhecimento facial e de voz (Laptops, Smartphones, Computadores Quânticos)
 
-Sinal analógico e sinal digital
-Sinal digital pode assumir dois esstados lógicos, como: ligado/ desligado, alto/ baixo, etc. O sinal digital tem algumas vantagens sobre o analógico, são mais imunes a distorções, ruídos e interferências, mais confiáveis e robustos, mais fáceis de projetar e mais baratos e sua implementação de hardware em circuitos é mais flexível.
+----------------------------------------------------------- // -----------------------------------------------------------
+
+* Sistemas Digitais *
+
+Definidos como circuitos eletrônicos que usam sinais elétricos em dois níveis de tensão, constituindo assim uma representação binária, circuitos lógicos; os impulsos elétricos transportados por esses circuitos são chamados de sinais digitais ou binários)
+
+* Sinal analógico e sinal digital
+
+Sinal digital pode assumir dois estados lógicos, como: ligado/ desligado, alto/ baixo, etc. O sinal digital tem algumas vantagens sobre o analógico, são mais imunes a distorções, ruídos e interferências, mais confiáveis e robustos, mais fáceis de projetar e mais baratos e sua implementação de hardware em circuitos é mais flexível.
 
 Grandezas digitais (bit > nibble > byte > word) (1 byte = 8 bits, 1 kilobyte 19 (KB) = 1024 bytes, 1 megabyte (MB) = 1024 kilobytes)
 
@@ -35,7 +43,10 @@ Dispositivos de saída - são todos aqueles destinados a exibir/receber o result
 
 Dispositivos de entrada/saída – Existem dispositivos que podem executar operações tanto de entrada quanto de saída. Como exemplo tem-se o pen drive, que pode ser utilizado para receber arquivos contidos no computador e/ou para transportar arquivos para dentro do computador.
 
-Tipos de Software
+----------------------------------------------------------- // -----------------------------------------------------------
+
+* Tipos de Software *
+
 Software é uma coleção de dados, programas, procedimentos, instruções e documentação que executa várias tarefas predefinidas. A intermediação entre usuário e computador.
 
 Software de Sistema (SO): o software responsável pelo gerenciamento do hardware.
@@ -45,11 +56,15 @@ Software de Aplicação: os softwares de aplicação são aqueles programas dese
 Conceitos de redes de computadores (trabalho realizado em vários computadores separados porém interligados entre si. 
 
 Endereço IP
+
 Para que haja conectividade (Internet) todos os equipamentos que se conectam precisam de um identificador único dentro da rede local denominado endereço de Internet, endereço IP (Internet protocol).
 
-Programação de computadores: fundamentos, código, compiladores, código de máquina
+----------------------------------------------------------- // -----------------------------------------------------------
 
-Fundamentos
+*Programação de computadores: fundamentos, código, compiladores, código de máquina *
+
+
+			* Fundamentos *
 
 Programação de computadores é projetar, desenvolver e construir um programa executável, para cumprir uma tarefa ou uma resposta para um determinado resultado;
 
@@ -59,7 +74,7 @@ Um programa de computador é um conjunto de instruções e algoritmos;
 
 Um programa de computador é criado, compilado e executado;
 
-s primeiras linguagens de programação se baseavam em instruções descritas com sequências de bytes (instruções binárias);
+As primeiras linguagens de programação se baseavam em instruções descritas com sequências de bytes (instruções binárias);
 
 Em 1950, a linguagem de programação comumente usada era o Assembly, mas, por ser uma linguagem de baixo nível (difícil para um ser humano entender e “visualizar” o código), começaram a surgir linguagens de alto nível, permitindo códigos mais complexos, como Cobol.
 
@@ -67,10 +82,11 @@ Em 1950, a linguagem de programação comumente usada era o Assembly, mas, por s
 
 Toda linguagem de programação tem palavras reservadas, que representam determinadas funções dentro do alfabeto dessa linguagem.
 
-Compiladores e código de máquina
+* Compiladores e código de máquina *
 Os compiladores transformam uma linguagem de alto nível para um nível mais baixo, para que a máquina possa executar. Compiladores em sua maioria não passam o código direto para binário, mas sim para outra linguagem de baixo nível, como Assembly. Existe uma correlação entre abstração e velocidade entre os níveis de linguagem de programação.
 
-Lógica proposicional e lógica booleana
+ * Lógica proposicional e lógica booleana *
+
 "... A lógica proposicional se baseia no conceito de proposições, uma sentença declarativa (expressa por palavras ou símbolos) cujo valor pode ser considerado verdadeiro ou falso (e nenhum outro diferente desses)... "
 
 Uma proposição verdadeira é verdadeira; uma proposição falsa é falsa (princípio da identidade).
@@ -79,7 +95,8 @@ Nenhuma proposição poderá ser verdadeira e falsa ao mesmo tempo. (princípio 
 
 Uma proposição ou será verdadeira, ou será falsa: não há outra possibilidade (princípio do terceiro excluído).
 
-Conectivos:
+
+* Conectivos *
 
 Conjunção (e) - define que uma expressão é verdadeira quando ambas as proposições são verdadeiras. (símbolo ∧)
 
@@ -99,27 +116,37 @@ Abstração: separação do que é essencial e secundário nas atividades.
 
 Algortimo: literalmento o passo a passo a ser seguido.
 
-Metodologias de desenvolvimento de software
+----------------------------------------------------------- // -----------------------------------------------------------
+
+* Metodologias de desenvolvimento de software *
 
 "... não existe uma solução que atenda a todos os tipos de projetos e necessidades."
 
 A metodologia mais tradicional é o modelo cascata:
+
 Análise e definição de requisitos------v
 							Projeto de sistemas e de software------v
 														Implementação e teste de unidades------v
 																					Integração e teste de sistemas------v
 																											Operação e manutenção
 
+
 Modelo de etapas prederminadas, executadas sequencialmente. Finalizando uma para iniciar a outra. Levantamento de dados, projeto, implementação, realização de testes e manutenção do sistema.
 
-Metodologias ágeis
+----------------------------------------------------------- // -----------------------------------------------------------
+
+* Metodologias ágeis *
+
 "...  surgem como uma proposta de atender com flexibilidade e agilidade às características do mercado corporativo nos dias de hoje."
 
 Sua base é funcionar com pequenas entregas para que seja avaliada a evolução de cada passo, sendo assim possível redirecionar o projeto em andamento.
 
-Scrum
 
-Artefatos do scrum: 
+
+* Scrum *
+
+
+			* Artefatos do scrum *
 
 *Milestone* é um agrupamento de atividades similares.
 
@@ -137,7 +164,8 @@ e.g:       	Eu, como um médico,
 
 *Sprint backlog* a lista de atividades a serem realizadas em uma sprint.
 
-Papéis do scrum:
+
+			* Papéis do scrum *
 
 *Scrum Master* é o líder da equipe scrum, responsável pela execução dos processos, resolução de bloqueios e representar o time scrum, defendendo o projeto e orientando a equpe.
 
@@ -147,7 +175,10 @@ Papéis do scrum:
 
 *Stakeholders* são as pessoas impactadas ou interessadas no projeto, usuários ou matenedores do projeto final.
 
-Cerimônias do scrum:
+
+
+			* Cerimônias do scrum *
+
 
 *Planning* reunião para definir os sprints, tamanhos, tempo, sprint backlogs, etc.
 
@@ -159,19 +190,74 @@ Cerimônias do scrum:
 *Sprint review" é uma reunião para apresentar os resultados da sprint para o product owner onde o mesmo aprovara a entrega e fazer feedbacks para a equipe. Realizada no final da sprint com todas as atividades finalizadas.
 
 *Sprint retrospective*  reunião junto ao scrum master para analisar a última sprint, seu ponto é debater sobre potenciais pontos de melhoria para otimizar o processo.
-
 SMART (específica, mensurável, atingível, relevante, temporal)
 
-Kanban
+
+* Kanban *
 
 O kanban é outra metodologia ágil, que usa alguns princípios do scrum, porém não usa sprints, e sim, com um quadro de atividades para representar o fluxo de trabalho.
 "para fazer", "fazendo" e "feito"
 
-Regras de negócio
+
+----------------------------------------------------------- // -----------------------------------------------------------
+
+* Regras de negócio *
 
 Negócio pode ser definido com o que uma organização faz (comercialização de um produto ou a prestação de um serviço). As partes de um negócio podem ser entendidas como etapas ou processos.
 
 Regras de negócio em TI, são processos que diretamente determinam o funcionamento da empresa. Essas regras consolidá-las, é preciso de documentação, avaliação de fluxo de trabalho e análise das necessidades. São as diretrizes básicas dos negócios.
 
 Regras de negócio padrão: o que, onde, quando, por que e como será feito.
+
+Business Process Management (abordagem de gerenciamento adaptával com foco na modelagem de processos. Ela não alcança nunca uma conclusão, pois trata de uma revisão e melhora de etapas constantes.
+
+* Melhora contínua, transparência de processos, organizações mais eficientes.
+* Aumento de produtividade, eliminação de processos redundantes.
+* Redução de custos.
+* Automatização de tarefas.
+* Evolução contínua.
+
+
+* Requisitos funcionais e não funcionais *
+
+"o que fazer" nessa parte entram em ação os requisitos funcionais e não funcionais auxiliaram na meneira pela qual serão atingidos os objetivos principais e secundários. São os requisitos que definem como atingir o objetivo do negócio. Solicitações, desejos e necessidades. Requisitos sendo funções de apoio para que os processos da empresa se realizem, sejam eles manuais ou informatizados.
+
+e.g.
+
+*Empresa de software*
+
+Objetivo Principal:
+Ser referência no ramo de desenvolvimento de software.
+
+Objetivos Secundários:
+Ter profissionais comprometidos.
+Ter uma sede para empresa.
+Oferecer sistemas que se adaptem as necessidades do clientes.
+
+Requisito funcional: processo que define o funcionamento percebido do sistema pelos usuários. Problemas, necessidades que são atendidas ou resolvidas pelo software através de funções ou serviços. É o que o software faz. Requisitos funcionais devem ser descritos de forma objetiva e evitando complexidade para que o objetivo seja atingido com qualidade.
+
+Requisito não funcional: qualidades globais do sistema, manutenção, usabilidade, desempenho, custos, etc. Descritos informalmente. São dividos em três categorias: requisitos de produto final, organizacional e externo.
+
+* Requisitos de produto final: ligados ao comportamento do software. Tempo de resposta do sistema, velocidade de execução, conexão, portabilidade, consistência, segurança, taxa de erros e confiabilidade.
+
+* Requisitos organizacionais: relacionados aos padrões da organização, software de acordo com as políticas e definições da empresa. Infraestrutura, sistema operacional compatível, conexão, criptografia usada pela empresa e linguagem de programação requisitada pela empresa.
+
+* Requisitos externos: relacionados a qualquer tipo de agente externo ao software que pode causar impacto no seu funcionamento. Localização geográfica em que o software será usado, legislação, sistemas e política de proteção de dados.
+
+----------------------------------------------------------- // -----------------------------------------------------------
+
+* Técnicas para a extração de requisitos *
+
+Parte importante do desenvolvimento é o levantamento dos requisitos necessários para a seu planejamento e execução. Sommerville (2003), propõe um processo genérico para essa tarefa:
+
+* Compreensão do domínio: domínio da aplicação, compreensão de onde estão as classes que fazem parte da descrição dos problemas.
+* Coleta de requisitos: interação com as partes interessadas do sistema, descobrindo assim os requisitos delas.
+* Classificação: conjunto não estruturado dos requisitos e a mediante organização em grupos coerentes.
+* Resolução de conflitos: múltiplas partes interessadas geram conflitos de requisitos, faze de adaptação e resolução desses conflitos.
+* Definição das prioridades: qualquer conjunto de requisitos, alguns serão mais importantes do que outros. Definição de quais são esses.
+* Verificação de requisitos: analise para descobrir se os requisitos estão completos, consistente e se estão em concordância.
+
+ "... a extração de requisitos é o processo de transformação das ideias que estão na mente do usuário (entrada) em um documento formal (saída)."
+
+* Processo de extração de requisitos *
 
