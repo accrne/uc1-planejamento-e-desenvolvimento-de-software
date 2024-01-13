@@ -264,5 +264,56 @@ Parte importante do desenvolvimento é o levantamento dos requisitos necessário
 * Entendimento do domínio - entendimento dos desenvolvedores do domínio da aplicação como um todo, compreendendo o foco principal.
 * Extração e análise de requisitos - descoberta dos requisitos por meio da interação com a parte interessada.
 * Especificação dos requisitos - armazenamento dos requisitos em uma ou mais formas, linguagem, simbólicas, gráficas. 
-* Validação dos requisitos
+* Validação dos requisitos - confirmação se os requisitos estão de acordo com as necessidades do cliente/usuário.
+
+* Métodos para extração e análise de requisitos *
+
+Podem ser divididos em técnicas formais e informais. Informais são baseadas na comunicação estruturada, interação com usuário, questionários, etc. Comunicações humanas ou de máquinas. "...  método JAD (joint application design), o brainstorming, as entrevistas e a técnica Pieces (desempenho – ou performance –, informação e dados, economia, controle, eficiência e serviços)."
+
+* JAD *
+
+Método de projeto interativo, basea-se en reuniões de grupo nas quais participam os representantes dos envolvidos no projeto, produzindo uma projeção de software.
+Proporciona maior produtividade, maior qualidade, trabalho em equipe, custos mais baixos de desenvolvimento e manutenção.
+
+A forma mais produtiva desse trabalho em grupo é obtida através do consenso. Entendo consenso não como unanimidade de opiniões, mas sim, a concordância eentre os participantes de que a solução encontrada é melhor para o grupo e não fere as bases do que se é buscado.
+
+* Facilitador: coordena a sessão JAD.
+* Documentador (pode ser um analista ou programador): registra todas as conclusões do grupo.
+* Observador (deverá ser uma pessoa perspicaz).
+* Indicador de assunto: garante que todos os pontos sejam tratados e deve ser um envolvido no projeto, que conheça bem o assunto.
+* Representante dos envolvidos (usuários): representa as áreas envolvidas (devem ser escolhidas as pessoas-chave, independentemente do nível hierárquico).
+* Gerente do projeto: deve acompanhar as sessões, uma vez que o sucesso ou o fracasso do projeto será sua responsabilidade.
+* Especialista: conhece os projetos da organização, que tenham interface com o projeto em estudo.
+
+
+* Brainstorming *
+
+Técnica que auxilia a potencializar a criatividade e a encontrar soluções para determinados problemas. Uma reunião, na qual cada participante pode expor suas ideias e sugestões, com total liberdade, além de debater sobre as ideais e sugestões dos demais participantes.
+
+
+* Método:
+
+* Divulgação clara de objetivos.
+* Geração de ideias (entre 20 e 60 minutos).
+* Intervalo para relaxamento.
+* Estudo detalhado de cada ideia.
+
+
+* Entrevistas *
+
+Técnica estruturada que pode ser aprendida e na qual os desenvolvedores podem ganhar proficiência com o treino e a prática. A entrevista consiste em quatro fases: identificação dos candidatos para a entrevista, preparação para uma entrevista, condução da entrevista e finalização da entrevista.
+
+
+* Pieces *
+
+Técnica para os desenvolvedores inexperientes, que apresentam dificuldades em como e o que perguntar para extrair os requisitos do cliente. Pieces ajuda a resolver esses problemas, pois fornece um conjunto de categorias de problemas que auxiliam a estruturação do processo de extração de requisitos.
+
+Em cada categoria existem várias questões que o desenvolvedor deve explorar com o usuário:
+
+* Performance – reflete o que o usuário espera.
+* Informação – tipo de acesso às informações (relatório, funções on-line) que inclui a quantidade de informação oferecida pelo software.
+* Economia – custo de usar um produto de software, processadores, armazenagem e conexão.
+* Controle – restrições de acesso ao sistema, acesso a algumas informações e habilidade de monitorar o comportamento do sistema.
+* Eficiência – evitar coletar o mesmo dado mais de uma vez e armazená-lo em espaço múltiplo.
+* Serviços – refere-se a que tipo de serviços os usuários necessitam que o software realize.
 
