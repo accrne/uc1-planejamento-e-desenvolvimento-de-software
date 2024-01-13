@@ -317,3 +317,28 @@ Em cada categoria existem várias questões que o desenvolvedor deve explorar co
 * Eficiência – evitar coletar o mesmo dado mais de uma vez e armazená-lo em espaço múltiplo.
 * Serviços – refere-se a que tipo de serviços os usuários necessitam que o software realize.
 
+----------------------------------------------------------- // -----------------------------------------------------------
+
+* UML e diagramas de caso de uso *
+
+A UML (unified modeling language ou linguagem de modelagem) é usada para visualização, especificação, construção, documentação e comunicação. UML define os procedimentos que auxiliam a modelagem e a documentação do software a ser desenvolvido.
+
+Com toda a informação extraída, com todas as demandas definidas, com o entendimento da regra de negócio. Identificados os requisitos funcionais e não funcionais, se obtendo uma ampla visão do sistema. Chega-se na fase de exemplificar isso utilizando uma forma gráfica. Diagramas de caso de uso.
+
+* Diagramas de caso de uso *
+
+"... como os usuários interagem com o sistema (as funcionalidades do sistema), facilita a organização dos requisitos desse sistema e dá a visão externa do sistema. O conjunto de casos de uso deve ser capaz de comunicar ao usuário a funcionalidade e o comportamento do sistema."
+
+Conjunto de símbolos e conectores específicos, afim de ajudar a equipe de desenvolvimento a entender o cenários em que o sistema interage com pessoas ou organizações, identifica metas gerais do sistema, montando o escopo do sistema. Vantagens:
+
+* Representar as metas de interações entre sistemas e usuários.
+* Definir e organizar requisitos funcionais no sistema.
+* Especificar o contexto e os requisitos do sistema.
+* Modelar o fluxo básico de eventos no caso de uso.
+
+* O diagrama de caso de uso é composto de quatro partes:
+
+* Cenário - sequência de eventos que acontecem quando um usuário interage com o sistema.
+* Ator - usuário do sistema/ tipo de usuário do sistema.
+* Use case - tarefa ou funcionalidade realizada pelo ator (usuário).
+* Comunicação - é o que liga o ator com um caso de uso.
