@@ -261,3 +261,8 @@ Parte importante do desenvolvimento é o levantamento dos requisitos necessário
 
 * Processo de extração de requisitos *
 
+* Entendimento do domínio - entendimento dos desenvolvedores do domínio da aplicação como um todo, compreendendo o foco principal.
+* Extração e análise de requisitos - descoberta dos requisitos por meio da interação com a parte interessada.
+* Especificação dos requisitos - armazenamento dos requisitos em uma ou mais formas, linguagem, simbólicas, gráficas. 
+* Validação dos requisitos
+
