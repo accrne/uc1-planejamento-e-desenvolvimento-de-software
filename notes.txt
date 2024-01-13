@@ -342,3 +342,28 @@ Conjunto de símbolos e conectores específicos, afim de ajudar a equipe de dese
 * Ator - usuário do sistema/ tipo de usuário do sistema.
 * Use case - tarefa ou funcionalidade realizada pelo ator (usuário).
 * Comunicação - é o que liga o ator com um caso de uso.
+
+----------------------------------------------------------- // -----------------------------------------------------------
+
+* Projeto de software: conceito e etapas *
+
+"... planejamento que é iniciado antes do desenvolvimento de um novo sistema. É por meio desse planejamento que se consegue elaborar uma sequência de eventos com início, meio e fim, definindo aspectos importantes para execução do projeto e controlando o processo de desenvolvimento... "
+
+Projeto --------------------------------------- Processos de planejamento --------------------------------------- 1. Planejar o gerenciamento do escopo do projeto.
+                                                                                                                                                                2. Coletar requisitos.
+																			         3. Definir o escopo.
+																				  4. Criar EAP.
+                                                               Processos de monitoramento e controle  ---------------------- 5. Validar o escopo.
+																		                6. Controlar o escopo.
+
+Cada uma dessas etapas pode gerar documentos úteis, que posteriormente serão utilizados como guias, gerando uma base de informações e ações a serem seguidas no desenvolvimento. 
+
+* Etapas de desenvolvimento * 
+
+1.  Planejar o gerenciamento do escopo do projeto:  processo inicial do projeto. Nessa etapa que serão definidas informações mais amplas da ideia do projeto, o que o cliente deseja, de que modo será organizado, que tipo de ferramentas de controle serão utilizadas, quais serão os integrantes que pertencerão ao projeto, como o cliente validará o progresso do desenvolvimento, entre outros. Nessa fase, tem-se como resultado documentos como o Termo de abertura do projeto e o Plano de gerenciamento do projeto.
+
+2. Coletar os requisitos: considerada como parte do planejamento, se da obtenção das características e funções que o cliente deseja para o software. Por meio dessa atividade será gerada a documentação de requisitos.
+
+3. Definir o escopo: a definição de escopo é como uma sequência direta do processo de coletar os requisitos, porém, de uma forma mais detalhada, delimitando com precisão o que será ou não feito no sistema
+
+4. Criar a EAP (estrutura analítica do projeto):
