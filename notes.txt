@@ -366,4 +366,28 @@ Cada uma dessas etapas pode gerar documentos úteis, que posteriormente serão u
 
 3. Definir o escopo: a definição de escopo é como uma sequência direta do processo de coletar os requisitos, porém, de uma forma mais detalhada, delimitando com precisão o que será ou não feito no sistema
 
-4. Criar a EAP (estrutura analítica do projeto):
+4. Criar a EAP (estrutura analítica do projeto): realização do processo de subdividir entregas em componentes menores. Utilizando como base os documentos gerados nas fases anteriores.
+
+5. Validar o escopo: monitoramento e controle. Formalizar a aceitação das entregas concluídas do projeto. Testar as funcionalidades prontas. Essa etapa funciona como uma inspeção das atividades realizadas, confirmando o sucesso no desenvolvimento e observando o desempenho do trabalho de forma geral. Alterações nessa fase do projeto deve gerar também alterações nos documentos correspondentes.
+
+6. Controlar o escopo: monitoramento do andamento do projeto, do produtos e das mudanças que aconteceram ao longo do desenvolvimento. Verificação se o trabalho está correndo de acordo com o cronograma definido. 
+
+* Ciclo de vida do software *
+
+"... é uma ordem de acontecimentos dos processos e das atividades que fazem parte do desenvolvimento."
+
+
+Fase de requisitos ----> Fase de projeto  ----> Fase da implementação  ----> Fase de testes  ----> Fase de produção
+
+* Fase de requisitos (contato primário com o problema, análise, levantamento de requisitos);
+* Fase de projeto (geração do protótipo, atributos, funções, estruturas, classes, objetos, segmentos, as relações entre partes do sistema);
+* Fase da implementação (fase mais longo, implementação, codificação do sistema em si);
+* Fase de testes (validação dos requisitos);
+* Fase de produção (apresentação do resultado final, instalção no ambiente do usuário, importação de dados do cliente, corrigir problemas e até tirar dúvidas)
+
+* caixa-branca e caixa-preta: caixa-branca baseia-se no conhecimento da estrutura do programa, tendo acesso ao código fonte. Os testes são executados via código, fluxo de controle, fluxo de dados, funções, etc. Caixa-preta baseia-se na visão do usuário, considerando a falta de acesso ao código-fonte. Os testes são derivados das especificações definidas ao sistema. *
+
+
+* Riscos de projeto *
+
+Falta de monitoramento sistemático do projeto, má-comunicação entre a equipe e o gerente de projetos, falta de gestão de riscos, falta de comunicação com o cliente. São alguns exemplos de riscos ao projeto.
