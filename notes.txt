@@ -391,3 +391,5 @@ Fase de requisitos ----> Fase de projeto  ----> Fase da implementação  ----> F
 * Riscos de projeto *
 
 Falta de monitoramento sistemático do projeto, má-comunicação entre a equipe e o gerente de projetos, falta de gestão de riscos, falta de comunicação com o cliente. São alguns exemplos de riscos ao projeto.
+
+----------------------------------------------------------- // -----------------------------------------------------------
